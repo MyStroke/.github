@@ -1,6 +1,6 @@
 # MyStroke
 <p align=center>
-    <img src="image/Logo.png" style="width: 30%">
+    <img src="https://raw.githubusercontent.com/MyStroke/.github/main/profile/image/Logo.png" style="width: 30%">
 </p>
 
 <!----------------------------- คำอธิบาย ----------------------------->
