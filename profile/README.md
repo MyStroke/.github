@@ -1,6 +1,6 @@
 # MyStroke
 <p align=center>
-    <img src="./image/Logo.png" style="width: 30%">
+    <img src="image/Logo.png" style="width: 30%">
 </p>
 
 <!----------------------------- คำอธิบาย ----------------------------->
