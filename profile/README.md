@@ -30,4 +30,4 @@
 - Smartphone
 
 #### Try MyStroke-Game (Not included application feature)
-- <a href="https://mystroke-game.onrender.com/">
+- <a href="https://mystroke-game.onrender.com/"></a>
