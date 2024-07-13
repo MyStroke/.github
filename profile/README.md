@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3225494a-c739-4594-b8a6-40b440dc5ab1)<div align="center">
+<div align="center">
   <img height="200" src="https://raw.githubusercontent.com/MyStroke/.github/main/profile/image/Logo.png"  />
 </div>
 
